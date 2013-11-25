@@ -1,0 +1,23 @@
+{
+  "name": "YOUR-APP-NAME",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "underscore": "~1.5.2",
+    "spine": "~1.2.0",
+    "neck": "~0.1.0"
+  },
+  "overrides": {
+    "underscore": {
+      "main": "underscore.js"
+    },
+    "spine": {
+      "main": [
+        "src/spine.coffee",
+        "src/ajax.coffee",
+        "src/relation.coffee",
+        "src/local.coffee"
+      ]
+    }
+  }
+}

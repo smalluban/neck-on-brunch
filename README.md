@@ -1,6 +1,14 @@
 # Neck on Brunch
 
-Simple template of brunch with spinejs framework specialy created for PhoneGap application boilerplate.
+Simple [Spine](http://spinejs.com/) with [Neck](https://github.com/smalluban/neck) application skeleton.
+
+## Features
+
+* File structure for Neck
+* Jade Templating engine
+* Stylus CSS language
+* Auto reloading on save
+* CoffeeScript as main code language
 
 ## File Structure
 

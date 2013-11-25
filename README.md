@@ -38,7 +38,7 @@ Simple [Spine](http://spinejs.com/) with [Neck](https://github.com/smalluban/nec
 ```
 npm install -g brunch
 npm install -g bower
-brunch https://github.com/smalluban/neck-on-brunch.git app_path
+brunch new https://github.com/smalluban/neck-on-brunch.git app_path
 ```
 
 ## Getting started

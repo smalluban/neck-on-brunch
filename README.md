@@ -29,6 +29,7 @@ Simple template of brunch with spinejs framework specialy created for PhoneGap a
 
 ```
 npm install -g brunch
+npm install -g bower
 brunch https://github.com/smalluban/neck-on-brunch.git app_path
 ```
 
